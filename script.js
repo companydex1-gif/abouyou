@@ -6,12 +6,12 @@ let isMuted = false;
 
 // Photo data - EDIT THESE WITH YOUR OWN PHOTOS
 const photos = [
-    { title: 'My sweetie', src: 'foto1.jpg' },
-    { title: 'your beauty', src: 'foto2.jpg' },
-    { title: 'Sweet Moments', src: 'foto3.jpg' },
-    { title: 'Forever Together', src: 'foto4.jpg' },
-    { title: 'Sunset Love', src: 'foto5.jpg' },
-    { title: 'Precious You', src: 'foto6.jpg' },
+    { title: 'My sweetie', src: 'my loveee/foto1.jpg' },
+    { title: 'your beauty', src: 'my loveee/foto2.jpg' },
+    { title: 'Sweet Moments', src: 'my loveee/foto3.jpg' },
+    { title: 'Forever Together', src: 'my loveee/foto4.jpg' },
+    { title: 'Sunset Love', src: 'my loveee/foto5.jpg' },
+    { title: 'Precious You', src: 'my loveee/foto6.jpg' },
 ];
 
 // Initialize
